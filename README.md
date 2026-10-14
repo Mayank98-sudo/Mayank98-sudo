@@ -11,7 +11,7 @@ I build Python and SQL analyses, interactive dashboards, and machine-learning pr
 ## Selected work
 
 ### [Falcon 9 Landing Prediction](https://github.com/Mayank98-sudo/SpaceX-Capstone-Project-1)
-An IBM Applied Data Science capstone connecting launch records to SQL exploration, Folium maps, a Plotly Dash dashboard, and four tuned classifiers. The original analysis reports 83.3% accuracy on an 18-launch test set; the README explains its validation limits.
+An IBM Applied Data Science capstone connecting launch records to SQL exploration, Folium maps, a Plotly Dash dashboard, and four classifiers. A new chronological evaluation fits preprocessing inside training folds and compares a majority baseline: 88.9% accuracy and 66.7% balanced accuracy on 18 later launches, versus the baseline's 83.3% and 50.0%. The small test set has only three unsuccessful labels. [Read the reproducible validation report](https://github.com/Mayank98-sudo/SpaceX-Capstone-Project-1/blob/main/reports/validation/REPORT.md).
 
 **Python · pandas · SQL · Folium · Dash · scikit-learn**
 
